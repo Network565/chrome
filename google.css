@@ -1,0 +1,44 @@
+nav{
+    background-color:gold;
+    position: fixed;
+    width: 100%;
+    display: inline;
+}
+ul{
+    list-style-type: none;
+    padding:0;
+    margin: 0;
+    overflow: hidden;
+    background-color: gold;
+}
+li{
+    float: left;
+}
+a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    display: block;
+    padding: 20px;
+}
+a:hover{
+    background-color: cyan;
+    color: darkcyan;
+}
+header{
+    background-color: black;
+    color: white;
+    text-align:center;
+    padding-top: 100px;
+    height: 200px;
+    font:100px
+    width: 100px;
+}
+section{
+    clear: both;
+}
+.h1{
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+}
